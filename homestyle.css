@@ -42,8 +42,8 @@ nav div img{
     height: 250px;
   }
   nav div h1{
-    font-size: 40px;
-/*     margin: 90px; */
+    font-size: 50px;
+    margin: 90px;
     color: rgb(5, 35, 73);
     font-family: 'Dancing Script', cursive;
     text-shadow: 2px 2px #2fc7bf;
@@ -66,7 +66,7 @@ nav div img{
 
   }
  section h1{
-    font-size: 25px;
+    font-size: 30px;
     font-weight: bold;
     color: rgb(5, 35, 73);
    }
